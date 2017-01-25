@@ -1,6 +1,6 @@
-# CS256
+# CS256 - Functional Programming
 
-This is my code for the CS256 Module at [DCS - University of Warwick](http://www2.warwick.ac.uk/fac/sci/dcs/)
+This is my code for the CS256 Module at [DCS - University of Warwick](http://www2.warwick.ac.uk/fac/sci/dcs/).
 
 The first assignment can be found [here](./ass16-1.pdf).
 
